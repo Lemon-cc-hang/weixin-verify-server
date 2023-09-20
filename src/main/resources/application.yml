@@ -1,0 +1,9 @@
+server:
+  port: 48000
+spring:
+  application:
+    name: weixin-verify-server
+
+weixin:
+  mp:
+    token: 9c017854a1829ed386f72aa3de293b90

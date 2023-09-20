@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "weixin.mp.token",
+      "type": "java.lang.String",
+      "description": "在微信开放平台里面配置的所要验证的token."
+  }
+] }
